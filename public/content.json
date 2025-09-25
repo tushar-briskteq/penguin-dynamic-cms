@@ -5,18 +5,32 @@
     "author": "Penguin Portfolio"
   },
   "navigation": {
-    "brand": "PENGUIN",
+    "brand": "PENGUIN123",
     "items": [
-      { "id": "home", "label": "Home" },
-      { "id": "about", "label": "About" }
+      {
+        "id": "home",
+        "label": "Home"
+      },
+      {
+        "id": "about",
+        "label": "About"
+      }
     ]
   },
   "hero": {
     "title": "ARCTIC",
     "subtitle": "Explore the enchanting world of penguins in their icy Antarctic kingdom",
     "buttons": [
-      { "text": "Discover More", "type": "primary", "action": "scroll-to-about" },
-      { "text": "View Gallery", "type": "outline", "action": "gallery" }
+      {
+        "text": "Discover More",
+        "type": "primary",
+        "action": "scroll-to-about"
+      },
+      {
+        "text": "View Gallery",
+        "type": "outline",
+        "action": "gallery"
+      }
     ],
     "backgroundImage": "/src/assets/penguin-hero.jpg"
   },
@@ -25,17 +39,17 @@
     "subtitle": "Discover the remarkable world of penguins, their incredible adaptations, and their fascinating life in the Antarctic wilderness.",
     "cards": [
       {
-        "icon": "🐧",
+        "icon": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ§",
         "title": "Antarctic Royalty",
         "description": "Emperor penguins are the tallest and heaviest of all penguin species, perfectly adapted to survive in the harshest Antarctic conditions."
       },
       {
-        "icon": "❄️",
-        "title": "Ice Masters", 
+        "icon": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂ¯ÃÂÃÂ¸ÃÂÃÂ",
+        "title": "Ice Masters",
         "description": "These incredible birds can dive to depths of over 500 meters and hold their breath for up to 20 minutes while hunting for fish."
       },
       {
-        "icon": "🌊",
+        "icon": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ",
         "title": "Ocean Athletes",
         "description": "Penguins are exceptional swimmers, using their flipper-like wings to \"fly\" through the water at speeds up to 22 mph."
       }
@@ -44,9 +58,18 @@
       "title": "Guardians of Antarctica",
       "description": "Penguins are living symbols of resilience and community. They huddle together for warmth during brutal Antarctic winters, demonstrating remarkable social behavior that has captivated scientists and nature lovers for generations.",
       "stats": [
-        { "value": "-40°C", "label": "Survival Temp" },
-        { "value": "500m", "label": "Dive Depth" },
-        { "value": "20 years", "label": "Lifespan" }
+        {
+          "value": "-40ÃÂÃÂÃÂÃÂ°C",
+          "label": "Survival Temp"
+        },
+        {
+          "value": "500m",
+          "label": "Dive Depth"
+        },
+        {
+          "value": "20 years",
+          "label": "Lifespan"
+        }
       ]
     }
   }
