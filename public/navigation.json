@@ -1,7 +1,13 @@
 {
-  "brand": "PENGUIN",
+  "brand": "PENGUIN789",
   "items": [
-    { "id": "home", "label": "Home" },
-    { "id": "about", "label": "About" }
+    {
+      "id": "home",
+      "label": "Home"
+    },
+    {
+      "id": "about",
+      "label": "About"
+    }
   ]
 }
