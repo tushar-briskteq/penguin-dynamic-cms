@@ -1,0 +1,7 @@
+{
+  "brand": "PENGUIN",
+  "items": [
+    { "id": "home", "label": "Home" },
+    { "id": "about", "label": "About" }
+  ]
+}
