@@ -1,9 +1,17 @@
 {
-  "title": "ARCTIC",
+  "title": "ARCTIC123",
   "subtitle": "Explore the enchanting world of penguins in their icy Antarctic kingdom",
   "buttons": [
-    { "text": "Discover More", "type": "primary", "action": "scroll-to-about" },
-    { "text": "View Gallery", "type": "outline", "action": "gallery" }
+    {
+      "text": "Discover More",
+      "type": "primary",
+      "action": "scroll-to-about"
+    },
+    {
+      "text": "View Gallery",
+      "type": "outline",
+      "action": "gallery"
+    }
   ],
   "backgroundImage": "/src/assets/penguin-hero.jpg"
 }
