@@ -23,7 +23,7 @@
     "description": "Penguins are living symbols of resilience and community. They huddle together for warmth during brutal Antarctic winters, demonstrating remarkable social behavior that has captivated scientists and nature lovers for generations.",
     "stats": [
       {
-        "value": "-40Â°C",
+        "value": "-40°C",
         "label": "Survival Temp"
       },
       {
