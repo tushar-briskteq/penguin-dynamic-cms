@@ -3,17 +3,17 @@
   "subtitle": "Discover the remarkable world of penguins, their incredible adaptations, and their fascinating life in the Antarctic wilderness.",
   "cards": [
     {
-      "icon": "ÃÂÃ",
+      "icon": "",
       "title": "Antarctic Royalty",
       "description": "Emperor penguins are the tallest and heaviest of all penguin species, perfectly adapted to survive in the harshest Antarctic conditions."
     },
     {
-      "icon": "ÃÂÃ",
+      "icon": "",
       "title": "Ice Masters",
       "description": "These incredible birds can dive to depths of over 500 meters and hold their breath for up to 20 minutes while hunting for fish."
     },
     {
-      "icon": "ÃÂÃ",
+      "icon": "",
       "title": "Ocean Athletes",
       "description": "Penguins are exceptional swimmers, using their flipper-like wings to \"fly\" through the water at speeds up to 22 mph."
     }
@@ -23,7 +23,7 @@
     "description": "Penguins are living symbols of resilience and community. They huddle together for warmth during brutal Antarctic winters, demonstrating remarkable social behavior that has captivated scientists and nature lovers for generations.",
     "stats": [
       {
-        "value": "-40°C",
+        "value": "-40Â°C",
         "label": "Survival Temp"
       },
       {
