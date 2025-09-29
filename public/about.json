@@ -1,5 +1,5 @@
 {
-  "title": "About Penguins",
+  "title": "About Penguins123",
   "subtitle": "Discover the remarkable world of penguins, their incredible adaptations, and their fascinating life in the Antarctic wilderness.",
   "cards": [
     {
@@ -23,7 +23,7 @@
     "description": "Penguins are living symbols of resilience and community. They huddle together for warmth during brutal Antarctic winters, demonstrating remarkable social behavior that has captivated scientists and nature lovers for generations.",
     "stats": [
       {
-        "value": "-40°C",
+        "value": "-40Â°C",
         "label": "Survival Temp"
       },
       {
